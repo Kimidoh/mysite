@@ -109,13 +109,13 @@ font-size: 0.76rem;
 
   .top-cloud {
     position: absolute;
-    right: 600px;
+    right: 300px;
     top: 50px;
   }
 
   .bottom-cloud {
     position: absolute;
-    left: 600px;
+    left: 300px;
     bottom: 300px;
   }
 
